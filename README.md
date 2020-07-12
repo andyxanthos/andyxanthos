@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello!
+My name is Andrew Xanthos. I'm a senior IT student at Pace University.
+
+I mostly work with JavaScript (primarily Node and React).
+
+I'm currently working on...
+  1. A word game (Electron)
+  2. A Warcraft-themed news site (React, Gatsby)
+  3. A language leaning platform (Express, Vanilla JS)
+
+To see some projects I've worked on, take a look at [my site](https://www.andrewxanthos.com/)!
 
 <!--
 **andyxanthos/andyxanthos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
